@@ -1,0 +1,9 @@
+{
+    "outboundCTNQTY": "出库单总箱数",
+    "outboundGW": "出库单总毛重(kg)",
+    "outboundCBM": "出库单总体积(m³)",
+    "outboundNW": "出库单总净重(kg)",
+    "skuStyleQTY": "产品款式数",
+    "skuInnerCartonMethodEn": "中包包装方式(EN)",
+    "skuMethodPkgEn": "产品包装方式(EN)"
+}

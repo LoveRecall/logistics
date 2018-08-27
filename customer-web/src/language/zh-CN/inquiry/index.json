@@ -1,0 +1,17 @@
+{
+  "inquiryTitle": "询价总览",
+  "inquiryDetailTitle": "询价单号",
+  "inquiryNo": "创建询价单",
+  "basicInfo": "基本信息",
+  "supplierRequired": "请至少选择一个供应商.",
+  "skuRequired": "请至少选择一款产品.",
+  "incotermRequired": "请选择价格条款.",
+  "discountRateMustNumber": "折扣率一栏请填写数字",
+  "noItemSelected": "请至少选择一项!",
+  "skuAvailableQtyMustGreatNotLessThanOne": "产品有现货时现货数量必须有值并且不小于1",
+  "inquiryTbc": "待采购商确认",
+  "inquiryTbs": "待供应商确认",
+  "inquiryFinished": "已完成",
+  "inquiryCanceled": "已取消",
+  "addNewTitle": "Add New"
+}

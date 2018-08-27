@@ -1,0 +1,26 @@
+{
+  "orderOverview": "订单总览",
+  "orderCreateDate": "订单日期",
+  "view": "视图",
+  "status": "状态",
+  "overdue": "已逾期",
+  "future": "未逾期",
+  "detail": "详情",
+  "urgingPayment": "催款",
+  "purchaseOrder": "采购合同",
+  "qcOrder": "QC订单",
+  "logistticOrder": "物流订单",
+  "TBCBYSUPPLIER": "待供应商确认",
+  "TBCBYCUSTOMER": "待客户确认",
+  "PROCESS": "进行中",
+  "FINISHED": "已完成",
+  "CANCLED": "已取消",
+  "waitingQc": "未验货",
+  "completedQc": "已验货",
+  "draft": "物流计划草稿",
+  "lsPlan": "物流计划",
+  "urgedSuccess": "催促成功",
+  "urgingPaymentTime": "间隔一分钟才能再次催款"
+
+
+}

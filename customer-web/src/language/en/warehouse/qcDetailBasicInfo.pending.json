@@ -1,0 +1,17 @@
+{
+  "QCOrderNo": "QC Order No.",
+  "QCType": "QC Type",
+  "QCDate": "QC Date",
+  "factoryAddress": "Factory Address",
+  "FactoryContactPhone": "Factory Phone Number",
+  "QCStatus": "QC status",
+  "QCMethod": "QC Method",
+  "Surveyor": "Surveyor",
+  "serviceFee": "Service fee",
+  "remark": "Remark",
+  "attachment": "Attachment",
+  "serviceProvidersNo": "Service providers No.",
+  "serviceProvidersName": "Service providers Name",
+  "exchangeCurrency": "Transaction Currency",
+  "timeZone": "Time Zone"
+}

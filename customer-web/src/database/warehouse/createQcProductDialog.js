@@ -1,0 +1,22 @@
+export default {
+    skuId:{
+        _hide:true
+    },
+    canCreateQc:{
+        _hide:true
+    },
+    id:{
+        _hide:true
+    },
+    skuInventoryStatusDictCode:{},
+    orderNo:{},
+    skuBarCode:{},
+    skuCode:{},
+    inboundNo:{},
+    skuNameEn:{},
+    skuMaterialEn:{},
+    customerSkuCode:{},
+    skuDescEn:{},
+    skuBrand:{},
+    innerCartonVolume:{},
+}

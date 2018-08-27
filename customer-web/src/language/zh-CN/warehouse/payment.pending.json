@@ -1,0 +1,10 @@
+{
+  "paymentNo": "付款编号",
+  "paymentItem": "付款项",
+  "planPayDt": "预计付款日",
+  "planPayAmount": "预计付款金额",
+  "actualPayDt": "实际付款日期",
+  "actualPayAmount": "实际付款金额",
+  "currencyCode": "货币",
+  "available": "有效性"
+}

@@ -1,0 +1,11 @@
+{
+  "pleaseInput": "请输入",
+  "canNotRepeatDepartmentName": "部门不能重复",
+  "canNotRepeatRole": "角色不能重复",
+  "createSuccess": "创建成功！",
+  "pleaseRemoveRoleUser": "请先将用户移至其他部门下",
+  "sureDelete": "确认删除?",
+  "deleteSuccess": "删除成功!",
+  "modifySuccess": "编辑成功!",
+  "pleaseInputRole": "请输入角色"
+}

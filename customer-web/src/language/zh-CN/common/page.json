@@ -1,0 +1,20 @@
+{
+  "systemMessage": "系统消息",
+  "markAsRead": "标记为已读",
+  "more": "更多",
+  "signOut": "退出",
+  "new": "新的",
+  "quickLink": "快捷链接",
+  "addNewLinks": "添加新的链接",
+  "draft": "草稿箱",
+  "recycleBin": "归档",
+  "log": "日志",
+  "admin": "管理员",
+  "user": "用户",
+  "home": "首页",
+  "goSignIn": "立即登录",
+  "cleanCache": "清除数据缓存",
+  "signIn": "登录",
+  "archive": "归档"
+}
+

@@ -1,0 +1,13 @@
+{
+  "inquiryNo": "Inquiry No.",
+  "quotationNo": "Quotation No.",
+  "entryDt": "Inquiry Date",
+  "status": "Status",
+  "supplierName": "Supplier Name",
+  "quantity": "Quantity",
+  "currency": "Currency",
+  "incoterm": "Incoterm",
+  "departurePort": "Departure Port",
+  "destinationPort": "Destination Port",
+  "inquiryRemark": "Inquiry Remark"
+}

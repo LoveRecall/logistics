@@ -1,0 +1,13 @@
+{
+  "cartonOfQualifiedProducts": "合格产品总箱数",
+  "quantityOfQualifiedProducts": "合格产品总数",
+  "volumeOfQualifiedProducts": "合格产品总体积(m³)",
+  "netWeightOfQualifiedProducts": "合格产品总净重(kg)",
+  "grossWeightOfQualifiedProducts": "合格产品总毛重(kg)",
+  "quantityOfSubQualityProducts": "不合格产品总数",
+  "cartonOfSubQualityProducts": "不合格产品总箱数",
+  "NetWeightOfSubQualityProducts": "不合格产品总净重(kg)",
+  "volumeOfSubQualityProducts": "不合格产品总体积(m³)",
+  "grossWeightOfSubQualityProducts": "不合格产品总毛重(kg)",
+  "SKUQuantity": "SKU款式数"
+}

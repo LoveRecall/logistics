@@ -1,0 +1,17 @@
+{
+  "QCOrderNo": "验货单号",
+  "QCType": "验货类型",
+  "QCDate": "验货日期",
+  "factoryAddress": "工厂地址",
+  "FactoryContactPhone": "工厂电话",
+  "QCStatus": "验货结果",
+  "QCMethod": "验货方式",
+  "Surveyor": "验货员",
+  "serviceFee": "服务费用",
+  "remark": "备注",
+  "attachment": "附件",
+  "serviceProvidersNo": "服务商编号",
+  "serviceProvidersName": "服务商名称",
+  "exchangeCurrency": "交易币种",
+  "timeZone": "时区"
+}

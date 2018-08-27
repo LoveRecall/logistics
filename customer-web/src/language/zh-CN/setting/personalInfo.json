@@ -1,0 +1,18 @@
+{
+  "email": "邮箱",
+  "userName": "用户名",
+  "password": "密码",
+  "tel": "电话",
+  "gender": "性别",
+  "language": "语言",
+  "department": "部门",
+  "role": "角色",
+  "birthday": "生日",
+  "oldEmail": "旧邮箱",
+  "newEmail": "新邮箱",
+  "oldPassword": "旧密码",
+  "newPassword": "新密码",
+  "confirmPassword": "确认密码",
+  "comfirmNewPassword": "确认新密码",
+  "replace": "重置"
+}

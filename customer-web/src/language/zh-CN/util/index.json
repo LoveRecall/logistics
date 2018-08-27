@@ -1,0 +1,9 @@
+{
+  "validateRequired": "请填写",
+  "validateCorrect": "请正确填写",
+  "validateValueGreater": "值不能大于",
+  "validateValueLess": "值不能小于",
+  "validateLengthGreater": "长度不能大于",
+  "validateLengthLess": "长度不能小雨",
+  "validateDigits": "数字"
+}

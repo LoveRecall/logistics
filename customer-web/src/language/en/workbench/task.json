@@ -1,0 +1,8 @@
+{
+  "inquiryID": "ID",
+  "description": "Description",
+  "time": "Time",
+  "submitter": "Submitter",
+  "actions": "Actions",
+  "bizNo": "Business No"
+}

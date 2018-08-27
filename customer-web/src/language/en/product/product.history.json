@@ -1,0 +1,17 @@
+{
+  "quotationNo": "Quotation No.",
+  "orderNo": "Order No.",
+  "unitPrice": "Price",
+  "skuPrice": "Amount",
+  "totalQty": "QTY",
+  "actDeliveryDt": "Deliver date",
+  "confirmQcDt": "QC date",
+  "actDepartureDt": "Shipped date",
+  "totalContainerQty": "Shipped QTY",
+  "skuQty": "Order SKU quantity",
+  "salesOrderNo": "Sales Order No",
+  "purchaseOrderNo": "Purchase Order No",
+  "totalCTN": "Total CTN",
+  "orderCreateDt": "Create Date",
+  "currencyTrade": "Currency"
+}

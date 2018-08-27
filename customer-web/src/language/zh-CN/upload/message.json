@@ -1,0 +1,11 @@
+{
+  "typeLimit": "不可导入的文件类型",
+  "sizeLimit": "导入文件大小不可超过",
+  "numberLimit": "只能上传文件数量",
+  "uploadingAttachments": "上传附件",
+  "viewAttachment": "查看附件",
+  "uploadImage": "上传图片",
+  "viewImage": "查看图片",
+  "uploadPhotos": "导入图片",
+  "viewPicture": "查看图片"
+}

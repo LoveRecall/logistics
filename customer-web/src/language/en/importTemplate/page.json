@@ -1,0 +1,21 @@
+{
+  "remark3": "Import the data into the template form into the system",
+  "remark2": "Input data in a template",
+  "remark1": "Please use the template to upload, you can ",
+  "remark": "Note",
+  "template": "download the Template first",
+  "import": "Import",
+  "upload": "Upload",
+  "selectFile": "Select the file",
+  "note": "Tips",
+  "importPrompt": "Data from the same email will be overwritten",
+  "fileTypePrompt": "Please upload the zip or xls/xlsx files",
+  "fileNumberPrompt": "The import file size exceeds the 200M limit, please try again later",
+  "tips2": "The {name} with same {key} will be updated by the new on",
+  "inUploading": "In Uploading",
+  "uploadingTheFile": "Uploading the File",
+  "processingTheFile": "Processing the File",
+  "SuccessRows": "Success Rows",
+  "failedRows": "Failed Rows",
+  "downloadFailedOnes": "Download the failed ones"
+}

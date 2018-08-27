@@ -1,0 +1,11 @@
+{
+  "name": "客户名称",
+  "shortName": "客户简称",
+  "type": "客户类别",
+  "country": "客户国别",
+  "city": "所在城市",
+  "payment": "付款方式",
+  "currency": "币种",
+  "shipAgent": "船代公司",
+  "incoterm": "价格条款"
+}

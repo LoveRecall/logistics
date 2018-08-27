@@ -1,0 +1,9 @@
+{
+  "outboundOutCartonTotalQty": "出库箱数",
+  "outboundSkuTotalVolume": "出库外箱总体积(m³)",
+  "outboundSkuTotalNetWeight": "出库外箱总净重(kg)",
+  "outboundSkuTotalGrossWeight": "出库外箱总毛重(kg)",
+  "inventorySkuPrice": "仓储单价",
+  "inventoryServiceFee": "仓储费用",
+  "inventoryDays": "仓储天数"
+}

@@ -1,0 +1,9 @@
+{
+  "outboundOutCartonTotalQty": "Outbound CTN QTY",
+  "outboundSkuTotalVolume": "Outbound Total CTN CBM(m³)",
+  "outboundSkuTotalNetWeight": "Outbound Total CTN N.W.(kg)",
+  "outboundSkuTotalGrossWeight": "Outbound Total CTN G.W.(kg)",
+  "inventorySkuPrice": "Inventory Unit Price",
+  "inventoryServiceFee": "Inventory Fee",
+  "inventoryDays": "Inventory Days"
+}

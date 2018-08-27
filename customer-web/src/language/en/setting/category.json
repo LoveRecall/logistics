@@ -1,0 +1,4 @@
+{
+  "categoryDelete": "Whether or not to confirm the deletion category",
+  "categoryDeleteParent": "Please delete all child classifications first"
+}

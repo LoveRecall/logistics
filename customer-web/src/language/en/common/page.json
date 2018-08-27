@@ -1,0 +1,20 @@
+{
+  "systemMessage": "System Message",
+  "markAsRead": "Mark as Read",
+  "more": "More",
+  "signOut": "Sign out",
+  "new": "New",
+  "quickLink": "Quick Link",
+  "addNewLinks": "Add new links",
+  "draft": "Draft",
+  "recycleBin": "Archive",
+  "log": "Log",
+  "admin": "Admin",
+  "user": "User",
+  "home": "Home",
+  "goSignIn": "Go sign in now",
+  "cleanCache": "Clean up the data cache",
+  "signIn": "Sign in",
+  "archive": "Archive"
+}
+

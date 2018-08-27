@@ -1,0 +1,21 @@
+{
+  "remark3": "使用模板导入数据到系统",
+  "remark2": "使用模板填写数据",
+  "remark1": "Please use the template to upload, you can ",
+  "remark": "备注",
+  "template": "download the Template first",
+  "import": "导入",
+  "upload": "上传",
+  "selectFile": "选择文件",
+  "note": "提示",
+  "importPrompt": "同一邮箱的历史数据将被覆盖",
+  "fileTypePrompt":"请上传zip或XLS/XLSX文件",
+  "fileNumberPrompt":"导入文件大小超出200M限制，请稍后重试",
+  "tips2": "相同{key}的{name}将会被覆盖更新",
+  "inUploading": "In Uploading",
+  "uploadingTheFile": "Uploading the File",
+  "processingTheFile": "Processing the File",
+  "SuccessRows": "Success Rows",
+  "failedRows": "Failed Rows",
+  "downloadFailedOnes": "Download the failed ones"
+}

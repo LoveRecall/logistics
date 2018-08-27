@@ -1,0 +1,12 @@
+{
+  "platformMessage": "Platform Message",
+  "companyMessage": "Company Message",
+  "pendingTask": "Pending task",
+  "futureTask": "Future task",
+  "push": "Push",
+  "FYI": "FYI",
+  "read": "Read",
+  "unread": "Unread",
+  "messageSetting": "Message Setting"
+
+}

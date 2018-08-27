@@ -1,0 +1,13 @@
+{
+  "outboundNo": "Outbound No.",
+  "shipmentInvoiceNo": "Invoice NO.",
+  "outboundTypeDictCode": "Outbound Type",
+  "outboundDate": "Outbound Date",
+  "outboundOperator": "Outbound Operator",
+  "outboundSkuTotalQty": "Outbound QTY",
+  "remark": "Remark",
+  "updateName": "Updated Name",
+  "updateDt": "Updated Date",
+  "entryDt": "Create Date",
+  "lcOutboundSkuTotalQty": "Outbound QTY"
+}

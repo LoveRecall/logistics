@@ -1,0 +1,22 @@
+{
+  "inboundNo": "Inbound No.",
+  "inboundDate": "Inbound Date",
+  "warehouseNo": "Warehouse No.",
+  "warehouseName": "Warehouse Name",
+  "purchaser": "Purchaser Operator",
+  "storageType": "Inbound Type",
+  "skuTotalQty": "Inbound QTY",
+  "skuTotalCartonQty": "Inbound CTN QTY",
+  "remark": "Remark",
+  "operator": "Operator",
+  "updateDt": "Modify Date",
+  "createDt": "Create Date",
+  "carrier": "Carrier",
+  "carrierPhone": "Carrier Phone",
+  "skuTotalVolume": "Inbound CBM(m³)",
+  "skuTotalNetWeight": "Inbound N.W.(kg)",
+  "skuTotalGrossWeight": "Inbound G.W.(kg)",
+  "updateName": "Operator",
+  "entryDt": "Create Time",
+  "skuStyleQty": "SKU QTY"
+}

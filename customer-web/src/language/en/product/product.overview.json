@@ -1,0 +1,17 @@
+{
+  "categoryId": "category ID",
+  "nameCnLike": "SKU name (CN)",
+  "readilyAvailable": "Readily available",
+  "customerSkuCodeLike": "Customer SKU code",
+  "exwPrice": "EXW price",
+  "codeLike": "Supplier SKU code",
+  "nameEnLike": "SKU name(EN)",
+  "fobPrice": "FOB price",
+  "materialEnLike": "SKU material",
+  "supplierNameLike": "Supplier name",
+  "outerCartonMethodEnLike": "Packing method of CTN",
+  "methodPkgEnLike": "Packing method",
+  "deliveryDates": "Delivery date",
+  "descEnLike": "Description (EN)",
+  "descCnLike": "Description (CN)"
+}

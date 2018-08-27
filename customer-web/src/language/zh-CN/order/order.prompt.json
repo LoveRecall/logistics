@@ -1,0 +1,23 @@
+{
+  "pleaseChooseType": "请选择类型",
+  "pleaseInput": "请填写",
+  "pleaseChoose": "请选择",
+  "pleaseCreate": "请创建",
+  "deleteSuccess": "成功删除",
+  "sureDelete": "确认归档?",
+  "handleSuccess": "操作成功！",
+  "shippedSuccess": "已发运！",
+  "saveSuccess": "保存成功！",
+  "sureAbandon": "确认作废？",
+  "sureRestore": "确认恢复？",
+  "changeSuccess": "改变成功！",
+  "sureCancel": "确认取消？",
+  "sendSuccess": "发送成功！",
+  "sureRefuse": "确认拒绝？",
+  "sureConfirm": "确认接单？",
+  "supplierNotTheSame": "你选择的产品与所选供应商不一致",
+  "nothingToDun":"没有可催款项",
+  "dunSuccess":"催款成功",
+  "productWillBeRemoved":"非本公司产品将被移除",
+  "hasNotMineProduct":"有非本公司产品"
+}

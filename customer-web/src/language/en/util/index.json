@@ -1,0 +1,9 @@
+{
+  "validateRequired": "Please fill in",
+  "validateCorrect": "Please fill in correctly",
+  "validateValueGreater": "The value cannot be greater than",
+  "validateValueLess": "The value cannot be less than",
+  "validateLengthGreater": "The length cannot be greater than",
+  "validateLengthLess": "The length can not be less than",
+  "validateDigits": "Digits"
+}

@@ -1,0 +1,19 @@
+{
+  "equal": "Equal",
+  "greater": "Greater",
+  "greaterAndEqual": "Greater or Equal",
+  "less": "Less",
+  "lessAndEqual": "Less or Equal",
+  "like": "Include",
+  "between": "Between",
+  "reset": "Reset",
+  "asc": "Asc",
+  "desc": "Desc",
+  "tableFilter": "Table filter",
+  "selectTheColumn": "select the column",
+  "selectionOperation": "selection operation",
+  "action": "Action",
+  "checkAll": "All",
+  "setField": "set field"
+}
+

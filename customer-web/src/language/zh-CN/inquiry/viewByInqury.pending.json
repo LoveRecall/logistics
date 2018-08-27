@@ -1,0 +1,13 @@
+{
+  "inquiryNo": "询价单号",
+  "quotationNo": "报价单号",
+  "entryDt": "询价时间",
+  "status": "状态",
+  "supplierName": "供应商名称",
+  "quantity": "数量",
+  "currency": "币种",
+  "incoterm": "价格条款",
+  "departurePort": "发运港口",
+  "destinationPort": "目的港口",
+  "inquiryRemark": "备注"
+}

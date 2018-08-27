@@ -1,0 +1,17 @@
+{
+  "categoryId": "分类",
+  "nameCnLike": "产品中文名",
+  "readilyAvailable": "是否有现货",
+  "customerSkuCodeLike": "客户货号",
+  "exwPrice": "EXW价格",
+  "codeLike": "供应商货号",
+  "nameEnLike": "产品英文名",
+  "fobPrice": "FOB价格",
+  "materialEnLike": "产品英文材质",
+  "supplierNameLike": "供应商名称",
+  "outerCartonMethodEnLike": "外箱包装方式",
+  "methodPkgEnLike": "产品包装方式",
+  "deliveryDates": "交期",
+  "descEnLike": "产品英文描述",
+  "descCnLike": "产品中文描述"
+}

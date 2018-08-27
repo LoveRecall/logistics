@@ -1,0 +1,17 @@
+{
+  "inquiryTitle": "Inquiry Overview",
+  "inquiryDetailTitle": "Inquiry No.",
+  "inquiryNo": "Create Inquiry",
+  "basicInfo": "Basic Info",
+  "supplierRequired": "Less one supplier required.",
+  "skuRequired": "Less one product required.",
+  "incotermRequired": "Incoterm is required.",
+  "discountRateMustNumber": "Discount Rate must a number",
+  "noItemSelected": "No item selected!",
+  "skuAvailableQtyMustGreatNotLessThanOne": "When a product is in stock, the spot quantity must not less than 1",
+  "inquiryTbc": "TBC By Customer",
+  "inquiryTbs": "TBC By Supplier",
+  "inquiryFinished": "finish",
+  "inquiryCanceled": "cancel",
+  "addNewTitle": "Add New"
+}

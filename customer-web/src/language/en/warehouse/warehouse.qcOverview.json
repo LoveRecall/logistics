@@ -1,0 +1,21 @@
+{
+  "qcOrderNo": "QC Order No.",
+  "qcStatusDictCode": "QC Result",
+  "qcMethodDictCode": "QC Method",
+  "surveyor": "Surveyor",
+  "factoryAddress": "Factory Address",
+  "factoryContactPhone": "Factory Contact Phone",
+  "remark": "Remark",
+  "qualifiedSkuCartonTotalQty": "Qualified Product Total CTNS",
+  "qualifiedSkuQty": "Qualified Product Total QTY",
+  "qualifiedSkuVolume": "Qualified Product Total CBM(m³)",
+  "qualifiedSkuNetWeight": "Qualified Product Total N.W.(kg)",
+  "qualifiedSkuGrossWeight": "Qualified Product Total G.W.(kg)",
+  "unqualifiedSkuQty": "Unqualified Product Total QTY",
+  "unqualifiedSkuCartonTotalQty": "Unqualified Product Total CTNS",
+  "unqualifiedSkuNetWeight": "Unqualified Product Total N.W.(kg)",
+  "unqualifiedSkuVolume": "Unqualified Product Total CBM(m³)",
+  "unqualifiedSkuGrossWeight": "Unqualified Product Total G.W.(kg)",
+  "skuRowNum": "SKU QTY",
+  "checkOuterCartonQty": "Check CTNS"
+}

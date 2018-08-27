@@ -1,0 +1,18 @@
+{
+  "email": "Email",
+  "userName": "User Name",
+  "password": "Password",
+  "tel": "Tel",
+  "gender": "Gender",
+  "language": "Language",
+  "department": "Department",
+  "role": "Role",
+  "birthday": "Birthday",
+  "oldEmail": "Old Email",
+  "newEmail": "New Email",
+  "oldPassword": "Old Password",
+  "newPassword": "New Password",
+  "confirmPassword": "Confirm Password",
+  "comfirmNewPassword": "Comfirm New Password",
+  "replace": "Replace"
+}

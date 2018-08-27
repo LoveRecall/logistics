@@ -1,0 +1,9 @@
+{
+  "saleStatus": "Sale status",
+  "supplierNo": "Supplier code",
+  "incoterm": "Incoterm",
+  "incotermArea": "Icoterm area",
+  "incotermPrice": "Price",
+  "addCustomer": "Add customer",
+  "uploadTips": "供应商货号相同产品将被覆盖"
+}

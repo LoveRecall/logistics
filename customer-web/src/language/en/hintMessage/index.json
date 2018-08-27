@@ -1,0 +1,14 @@
+{
+  "networkException": "Network exception, please try again later",
+  "requestException": "Request an exception, please try again",
+  "loginExpired": "Login expired, please log in again",
+  "dataException": "Data exception, retry later",
+  "logoutHints": "Is it confirmed to be out",
+  "systemHints": "System hints",
+  "operationSuccessful": "Operation Succeed",
+  "noLatestNews": "No latest news",
+  "operationFailed": "Operation fails",
+  "pleaseEnter": "Please enter",
+  "noData": "No data",
+  "noAuthority": "You do not have access, please contact the administrator"
+}

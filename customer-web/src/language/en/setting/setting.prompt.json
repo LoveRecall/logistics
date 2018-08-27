@@ -1,0 +1,11 @@
+{
+  "pleaseInput": "Please Input",
+  "canNotRepeatDepartmentName": "The department can't be repeat",
+  "canNotRepeatRole": "The role can't be repeat",
+  "createSuccess": "Create Success!",
+  "pleaseRemoveRoleUser": "Please move the user to another department first",
+  "sureDelete": "Confirm deletion?",
+  "deleteSuccess": "Delete Success!",
+  "modifySuccess": "Modify Success!",
+  "pleaseInputRole": "Please Input Role"
+}

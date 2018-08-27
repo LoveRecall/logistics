@@ -1,0 +1,12 @@
+{
+  "platformMessage": "平台消息",
+  "companyMessage": "公司消息",
+  "pendingTask": "待处理",
+  "futureTask": "未来任务",
+  "push": "消息提醒",
+  "FYI": "与我相关",
+  "read": "已读",
+  "unread": "未读",
+  "messageSetting": "消息设置"
+
+}

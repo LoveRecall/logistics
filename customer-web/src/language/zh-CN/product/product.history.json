@@ -1,0 +1,17 @@
+{
+  "quotationNo": "客户询价单号",
+  "orderNo": "订单号",
+  "unitPrice": "订单单价",
+  "skuPrice": "订单总价",
+  "totalQty": "订单数量",
+  "actDeliveryDt": "交货日期",
+  "confirmQcDt": "验货日期",
+  "actDepartureDt": "发运日期",
+  "totalContainerQty": "发运数量",
+  "skuQty": "产品采购数量",
+  "salesOrderNo":"外销订单号",
+  "purchaseOrderNo":"采购订单号",
+  "totalCTN":"订单箱数",
+  "orderCreateDt":"订单创建日期",
+  "currencyTrade":"订单币种"
+}

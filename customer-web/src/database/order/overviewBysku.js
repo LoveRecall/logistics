@@ -1,0 +1,76 @@
+export default {
+    id:{
+        _hide:true,
+    },
+    skuPictures:{
+        mustShowColumn:true,
+        _image:true,
+        _upload: {
+            readonly:true,
+        }
+    },
+    skuStatus:{},
+    skuCode:{},
+    skuCustomerSkuCode:{},
+    skuNameCustomer:{},
+    skuDescCustomer:{},
+
+    orderNo:{},
+    customerOrderNo:{
+        mustShowColumn:true
+    },
+    supplierOrderNo:{
+        mustShowColumn:true
+    },
+    skuNameCn:{},
+    skuNameEn:{},
+    skuDescEn:{},
+    skuRemarkOne:{},        //??
+    skuRemarkTwo:{},        //??
+    skuRemarkThree:{},      //??
+    skuUnit:{},
+    skuOuterCartonQty:{
+        mustShowColumn:true
+    },
+    skuUndeliveredQty:{
+        mustShowColumn:true
+    },
+    skuUntestedQty:{
+        mustShowColumn:true
+    },
+    skuMaterialEn:{},
+    skuMethodPkgEn:{
+        mustShowColumn:true
+    },
+    skuCartonQty:{
+        mustShowColumn:true
+    },
+    skuFobCurrency:{},
+    skuFobPrice:{},
+    skuFobPort:{},
+    skuExwCurrency:{},
+    skuExwPrice:{},
+    skuCifCurrency:{},
+    skuCifPrice:{},
+    skuCifPort:{},
+    skuDduCurrency:{},
+    skuDduPrice:{},
+    skuDduPort:{},
+    incoterm:{
+        key:'skuIncoterm'
+    },
+    skuQty:{},
+    skuInnerCartonQty:{
+        mustShowColumn:true
+    },
+    skuPrice:{},
+    orderDt:{
+        key:'entryDt'
+    },
+    deliveryDt:{},
+    skuDeliveredQty:{},
+    updateDt:{},
+    supplierAbbr:{
+        mustShowColumn:true
+    },
+}

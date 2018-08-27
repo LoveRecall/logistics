@@ -1,0 +1,19 @@
+{
+  "equal": "等于",
+  "greater": "大于",
+  "greaterAndEqual": "大于等于",
+  "less": "小于",
+  "lessAndEqual": "小于等于",
+  "like": "包含",
+  "between": "区间",
+  "reset": "重置",
+  "asc": "正序",
+  "desc": "倒序",
+  "tableFilter": "表格过滤器",
+  "selectTheColumn": "选择列",
+  "selectionOperation": "选择操作",
+  "action": "操作",
+  "checkAll": "全选",
+  "setField": "字段设置"
+}
+

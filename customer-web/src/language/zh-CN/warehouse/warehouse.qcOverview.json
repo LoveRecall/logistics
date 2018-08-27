@@ -1,0 +1,21 @@
+{
+  "qcOrderNo": "验货单号",
+  "qcStatusDictCode": "验货结果",
+  "qcMethodDictCode": "验货方式",
+  "surveyor": "验货员",
+  "factoryAddress": "工厂地址",
+  "factoryContactPhone": "工厂电话",
+  "remark": "备注",
+  "qualifiedSkuCartonTotalQty": "合格产品总箱数",
+  "qualifiedSkuQty": "合格产品数量",
+  "qualifiedSkuVolume": "合格产品总体积(m³)",
+  "qualifiedSkuNetWeight": "合格产品总净重(kg)",
+  "qualifiedSkuGrossWeight": "合格产品总毛重(kg)",
+  "unqualifiedSkuQty": "不合格产品数量",
+  "unqualifiedSkuCartonTotalQty": "不合格产品总箱数",
+  "unqualifiedSkuNetWeight": "不合格产品总净重(kg)",
+  "unqualifiedSkuVolume": "不合格产品总体积(m³)",
+  "unqualifiedSkuGrossWeight": "不合格产品总毛重(kg)",
+  "skuRowNum": "SKU款式数",
+  "checkOuterCartonQty": "检查外箱数量"
+}

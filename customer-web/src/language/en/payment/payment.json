@@ -1,0 +1,26 @@
+{
+  "orderOverview": "Payment Overview",
+  "orderCreateDate": "Order Date",
+  "view": "View",
+  "status": "Status",
+  "overdue": "Overdue",
+  "future": "Future",
+  "detail": "Detail",
+  "urgingPayment": "Urging Payment",
+  "purchaseOrder": "Purchase order",
+  "qcOrder": "QC order",
+  "logistticOrder": "Logisttic order",
+  "TBCBYSUPPLIER": "TBC by supplier",
+  "TBCBYCUSTOMER": "TBC by customer",
+  "PROCESS": "Process",
+  "FINISHED": "Finish",
+  "CANCLED": "Cancel",
+  "waitingQc": "Uninspected",
+  "completedQc": "Inspected",
+  "draft": "logistic plan draft",
+  "lsPlan": "logistic plan",
+  "urgedSuccess": "Operate successfully",
+  "urgingPaymentTime": "间隔一分钟才能再次催款"
+
+
+}

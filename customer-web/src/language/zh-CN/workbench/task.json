@@ -1,0 +1,8 @@
+{
+  "inquiryID": "询价单编号",
+  "description": "描述",
+  "time": "时间",
+  "submitter": "发送人",
+  "actions": "操作",
+  "bizNo": "业务单号"
+}

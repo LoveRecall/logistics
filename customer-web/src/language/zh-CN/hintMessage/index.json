@@ -1,0 +1,14 @@
+{
+  "networkException": "网络异常，请稍后再试",
+  "requestException": "请求异常，请重试",
+  "loginExpired": "登录失效,请重新登录",
+  "dataException": "数据异常,请稍后再试",
+  "logoutHints": "确认退出登录吗",
+  "systemHints": "系统提示",
+  "operationSuccessful": "操作成功",
+  "noLatestNews": "最近无消息",
+  "operationFailed": "操作失败",
+  "pleaseEnter": "请填写",
+  "noData": "无数据",
+  "noAuthority": "您没有访问权限，请联系管理员"
+}

@@ -1,0 +1,13 @@
+{
+  "cartonOfQualifiedProducts": "Carton of Qualified Products",
+  "quantityOfQualifiedProducts": "Quantity of Qualified Products",
+  "volumeOfQualifiedProducts": "Volume of Qualified Products(m³)",
+  "netWeightOfQualifiedProducts": "Total N.W. of Qualified Products(kg)",
+  "grossWeightOfQualifiedProducts": "Total G.W. of Qualified Products(kg)",
+  "quantityOfSubQualityProducts": "Total QTY of Unqualified Products",
+  "cartonOfSubQualityProducts": "Total Cartons of Unqualified Products",
+  "NetWeightOfSubQualityProducts": "Total N.W. of Unqualified Products(kg)",
+  "volumeOfSubQualityProducts": "Total Volume of Unqualified Products(m³)",
+  "grossWeightOfSubQualityProducts": "Total G.W. of Unqualified Products(kg)",
+  "SKUQuantity": "SKU QTY"
+}

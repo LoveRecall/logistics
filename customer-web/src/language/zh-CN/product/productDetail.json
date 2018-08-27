@@ -1,0 +1,9 @@
+{
+  "saleStatus": "销售状态",
+  "supplierNo": "供应商编号",
+  "incoterm": "价格条款",
+  "incotermArea": "价格条款区域",
+  "incotermPrice": "价格",
+  "addCustomer": "新增客户",
+  "uploadTips": "供应商货号相同产品将被覆盖"
+}

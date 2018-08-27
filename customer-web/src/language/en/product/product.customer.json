@@ -1,0 +1,11 @@
+{
+  "name": "Customer name",
+  "shortName": "Customer abbreviation",
+  "type": "Customer type",
+  "country": "Customr country",
+  "city": "Customer city",
+  "payment": "Payment term",
+  "currency": "Currency",
+  "shipAgent": "Ship agent",
+  "incoterm": "Incoterm"
+}

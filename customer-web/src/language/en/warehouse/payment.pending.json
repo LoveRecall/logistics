@@ -1,0 +1,10 @@
+{
+  "paymentNo": "Payment No.",
+  "paymentItem": "Payment Item",
+  "planPayDt": "Est. Pay Date",
+  "planPayAmount": "Est. Amount",
+  "actualPayDt": "Act. Pay Date",
+  "actualPayAmount": "Act. Amount",
+  "currencyCode": "Currency",
+  "available": "Validity"
+}
